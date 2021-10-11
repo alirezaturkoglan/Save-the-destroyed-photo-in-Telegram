@@ -17,5 +17,7 @@ git clone https://github.com/alirezaturkoglan/Save.git <br>
 ls <br>
 cd Save <br>
 python Save.py <br>
+By replaying the word ( بصبر ) to the destroyed message, you can save it <br>
 -------------------------------------------- <br>
-لطفا از ترموکس استفاده کنید و کد های بالا رو در ترموکس وارد کنید
+لطفا از ترموکس استفاده کنید و کد های بالا رو در ترموکس وارد کنید <br>
+با ریپلای کلمه ( بصبر ) به پیام نابود شونده میتوانید آنرا ذخیره کنید
