@@ -1,4 +1,4 @@
-# Save-the-destroyed-photo <br>
+# Save the destroyed photo <br>
 -------------------------------- <br>
 pkg upgrade <br>
 pkg update <br>
